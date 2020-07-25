@@ -22,8 +22,6 @@ $ source <env_name>/bin/activate\
 
 * **David Gonzalez** - [RNNvsHoltWinters](https://github.com/RNNvsHoltWinters)
 
-See also the list of [contributors](https://github.com/RNNvsHoltWinters/contributors) who participated in this project.
-
 ## License
 
 This project is licensed under the GPLv3 License - see the [LICENSE](LICENSE) file for details
