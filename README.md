@@ -13,7 +13,7 @@ pip freeze > requirements.txt
  
 * Import it in your environment with:\
 $ python3 -m venv <env_name>\
-$ source <env_name>/bin/activate\
+$ source path/to/<env_name>/bin/activate\
 (<env_name>)$ pip install -r path/to/requirements.txt
 
 * Run jupyter-notebook included and enjoy it!
