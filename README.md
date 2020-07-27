@@ -18,6 +18,11 @@ $ source path/to/<env_name>/bin/activate\
 
 * Run jupyter-notebook included and enjoy it!
 
+## References
+
+* **szrlee** (https://www.kaggle.com/szrlee/stock-time-series-20050101-to-20171231)
+* **thebrownviking20** (https://www.kaggle.com/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru)
+
 ## Authors
 
 * **David Gonzalez** - [RNNvsHoltWinters](https://github.com/RNNvsHoltWinters)
