@@ -20,6 +20,7 @@ $ source path/to/<env_name>/bin/activate\
 
 ## References
 
+* **Nielsen, A. (2019). Practical Time Series Analysis. O'Reilly Media.** 
 * **szrlee** (https://www.kaggle.com/szrlee/stock-time-series-20050101-to-20171231)
 * **thebrownviking20** (https://www.kaggle.com/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru)
 
