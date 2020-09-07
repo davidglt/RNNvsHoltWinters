@@ -22,7 +22,7 @@ $ source path/to/<env_name>/bin/activate\
 
 * **Nielsen, A. (2019). Practical Time Series Analysis. O'Reilly Media.** 
 * **szrlee. (2018). DJIA 30 Stock Time Series.** (https://www.kaggle.com/szrlee/stock-time-series-20050101-to-20171231)
-* **thebrownviking20. (2918). Intro to Recurrent Neural Networks LSTM | GRU.** (https://www.kaggle.com/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru)
+* **thebrownviking20. (2018). Intro to Recurrent Neural Networks LSTM | GRU.** (https://www.kaggle.com/thebrownviking20/intro-to-recurrent-neural-networks-lstm-gru)
 
 ## Authors
 
